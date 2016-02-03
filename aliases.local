@@ -1,0 +1,6 @@
+# zsh
+alias reload=". ~/.zshrc && echo 'ZSH config reloaded from ~/.zshrc'"
+
+# Unix
+alias mkdir='mkdir -p'
+alias v='nvim'
